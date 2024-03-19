@@ -1,5 +1,6 @@
 # Sales-Data-Analysis
 Exploratory Data Analysis (EDA) of Sales Data using Python
+
 Objective:
 Improve customer experience by analysing sales data.
 Increase the revenue.
